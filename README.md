@@ -2,7 +2,7 @@
 
 This repository contains questions and answers for several problems in C, C++, Python, and Golang.
 
-# Structure of files
+# File structure
 
 ```text
 JazzNetwork               # main folder
